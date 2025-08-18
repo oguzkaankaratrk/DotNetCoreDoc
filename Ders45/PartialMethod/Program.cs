@@ -63,3 +63,11 @@ public partial class Employee
         return _name;
     }
 }
+
+//nerelerde kullanılır
+//kod üreten araçlar(ef, blazor, grpc, regex generator) -> sana "hook" bırakır.
+//şablon kodlarda(windows form designer, t4 templates).
+//büyük sınıfları methodları parçalara ayırmada
+//opsiyonel genişletme noktaları(senin bir frameworkun var yetmiyor , ek method yazıcan.)
+//performans avantajı(eğer implemente edilmezse derleyici derki ben malmıyım tamamen kaldırır.)
+//c#13 ile partial properties/indexer/events/constructors -> source generator entegrasyon. 
