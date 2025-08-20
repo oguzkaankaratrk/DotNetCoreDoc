@@ -10,7 +10,7 @@ var person = new Person("Ali", "Yılmaz", 23);
 person.PrintInfo();
 
 //Object Initializer
-//Parametreli consructor
+//Parametresiz consructor
 var person1 = new Person
 {
     FirstName = "ALi",
