@@ -7,7 +7,8 @@
 // Unity oyun geliştirebilirsin. 
 //Java ile hemen hemen birebir aynıdır. 
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");//Yazar ve bir alt satıra geçer. 
+Console.Write("Hello, World!");//Aynı satırda yazar.
 
 
 ///Yorum satırı, kodlarda birşeyler hatırlamak için yazılan yazılardır,
