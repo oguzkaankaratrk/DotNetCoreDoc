@@ -225,6 +225,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ders55", "Ders55", "{F51CC8
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryWithCollectionInitializer", "Ders55\DictionaryWithCollectionInitializer\DictionaryWithCollectionInitializer.csproj", "{BAAD89B8-A114-4044-9EB6-0DD4FA0283F8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ders56", "Ders56", "{9FCA8E3D-8EBD-43CA-AED5-C55C258759A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projects", "Ders56\Projects\Projects.csproj", "{82B23A80-CDDD-4241-9E01-A2F27B5F2B5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -455,6 +459,10 @@ Global
 		{BAAD89B8-A114-4044-9EB6-0DD4FA0283F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAAD89B8-A114-4044-9EB6-0DD4FA0283F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAAD89B8-A114-4044-9EB6-0DD4FA0283F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82B23A80-CDDD-4241-9E01-A2F27B5F2B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B23A80-CDDD-4241-9E01-A2F27B5F2B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B23A80-CDDD-4241-9E01-A2F27B5F2B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B23A80-CDDD-4241-9E01-A2F27B5F2B5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -516,6 +524,7 @@ Global
 		{16B4D79D-BF68-4536-B335-001050E1C391} = {D07986F8-C971-4823-8FD7-7A9594659CF0}
 		{7BA1C023-3A62-4CAB-AB79-B57740599759} = {EB60A069-2A59-4CCC-8DE0-D1469ECF7846}
 		{BAAD89B8-A114-4044-9EB6-0DD4FA0283F8} = {F51CC8B6-D109-4A5E-9892-E4823B91D07D}
+		{82B23A80-CDDD-4241-9E01-A2F27B5F2B5B} = {9FCA8E3D-8EBD-43CA-AED5-C55C258759A1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EFC10629-8F16-47F7-82C5-14523571D740}
