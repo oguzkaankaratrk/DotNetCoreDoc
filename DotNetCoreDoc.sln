@@ -237,6 +237,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ders58", "Ders58", "{4975B0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIToInitializerADictionary", "AIToInitializerADictionary\AIToInitializerADictionary.csproj", "{9E469EA8-CBB9-44DF-9F17-2449FCE5AC37}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ders59", "Ders59", "{45651C35-4B6A-4DEF-B740-67610093A0BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiffirentFromClassesAndStruct", "Ders59\DiffirentFromClassesAndStruct\DiffirentFromClassesAndStruct.csproj", "{911590B1-6A5F-4D03-8432-0410F9049DE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -479,6 +483,10 @@ Global
 		{9E469EA8-CBB9-44DF-9F17-2449FCE5AC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E469EA8-CBB9-44DF-9F17-2449FCE5AC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E469EA8-CBB9-44DF-9F17-2449FCE5AC37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{911590B1-6A5F-4D03-8432-0410F9049DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911590B1-6A5F-4D03-8432-0410F9049DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911590B1-6A5F-4D03-8432-0410F9049DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911590B1-6A5F-4D03-8432-0410F9049DE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -543,6 +551,7 @@ Global
 		{82B23A80-CDDD-4241-9E01-A2F27B5F2B5B} = {9FCA8E3D-8EBD-43CA-AED5-C55C258759A1}
 		{D9913E9D-A360-4ABD-AA8D-BC66FD304938} = {7F5A02CD-A949-48C4-9F86-8508C267EB4F}
 		{9E469EA8-CBB9-44DF-9F17-2449FCE5AC37} = {4975B02C-0919-40AE-A3C9-422D65E32555}
+		{911590B1-6A5F-4D03-8432-0410F9049DE0} = {45651C35-4B6A-4DEF-B740-67610093A0BF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EFC10629-8F16-47F7-82C5-14523571D740}
